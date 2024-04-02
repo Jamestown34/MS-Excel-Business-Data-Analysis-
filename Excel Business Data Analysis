@@ -1,0 +1,29 @@
+A rough data of a book sales shop with the list of Subjects given to each Employee to sale in a space of 3 days. 
+The data contains
+Employee Name
+Course (Books)
+Day 1 Sales
+Day 2 Sales
+Day 3 Sales
+Total sales 
+Target .
+
+
+I created the percentage of their sales by (Total Sales/Target × 100)
+
+
+I queried the data and brought out the:
+
+Top 3 sales person
+Bottom 3 sales person
+Top 3 Targets met and I Visualized the data on Excel 
+Using Column chart
+Bar chart 
+Line chart
+**Percentage of Target Achieved:**
+ I Visualized the percentage of target achieved by the top Three employees. This was represented in a line chart, showcasing targets achieved by top 3 employees. 
+
+hashtag#exceldashboard 
+hashtag#excelskills 
+
+
